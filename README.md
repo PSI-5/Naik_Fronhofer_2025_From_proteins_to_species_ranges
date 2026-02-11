@@ -243,3 +243,10 @@ Individual-level trait data at a given time step:
 If you use this code or data in your research, please cite:
 
 **Naik, S. & Fronhofer, E.** (2024). From proteins to species ranges: a framework for understanding thermal adaptation during range expansions. *Proceedings of the Royal Society B*. DOI: 10.1098/rspb
+
+
+## Contact
+Emanuel A. Fronhofer
+Institut Des Sciences De L’evolution De Montpellier, France
+Email: emanuel.fronhofer@umontpellier.fr
+
