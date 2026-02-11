@@ -1,0 +1,42 @@
+inputfile for parameters
+
+number of patches (world_size) 
+144
+initial population (N0) 
+200
+birth rate (b) 
+0.15
+competition coeff (Beta) 
+0.004
+death rate (d) 
+0.05
+dispersal rate (disp) 
+0.01
+dispersal mortality (disp_mort) 
+0.01
+initial dispersal sd (disp_ini_sd) 
+0.0
+mut dispersal sd (disp_mut_sd) 
+0.0
+patch extinction probability (pe) 
+0
+death rate scaling (Ed)
+0.3
+enthalpy (Hdd) 
+0.67
+entropy (dSr) 
+-0.0091
+entropy initial variance (dSr_ini_sd)
+0.00021
+entropy mutation variance (dSr_mut_sd)
+0.00021
+free energy (dGr) 
+-0.091
+free energy initial variance (dGr_ini_sd)
+0.01
+free energy mutation variance (dGr_mut_sd)
+0.01
+mutation rate (mut_rate)
+0.025
+replicates (tot_runs) 
+1

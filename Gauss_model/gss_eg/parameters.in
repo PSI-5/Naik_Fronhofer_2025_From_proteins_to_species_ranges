@@ -1,0 +1,48 @@
+inputfile for parameters
+
+number of patches (world_size)
+144
+initial population (N0) 
+200
+birth rate (b) 
+0.15
+competition coeff (beta) 
+0.004
+death rate (d) 
+0.05
+dispersal rate (disp)
+0.01
+dispersal mortality (disp_mort) 
+0.01
+initial dispersal sd (disp_ini_sd) 
+0
+mut dispersal sd (disp_mut_sd)
+0
+patch extinction probability (pe) 
+0
+death rate scaling (Ed) 
+0.3
+constant (A) 
+0.43
+standard deviation (sigma) 
+8
+sigma mutation variance (sigma_mut_sd) 
+0.1
+sigma initial variance (sigma_ini_sd) 
+0.1
+mean temperature (T0)
+309
+temperature mutation variance (T0_mut_sd) 
+1
+temperature initial variance (T0_ini_sd) 
+1
+mean growth rate scaling (r0)
+1
+temperature mutation variance (r0_mut_sd)
+0.0
+temperature initial variance (r0_ini_sd)
+0.0
+mutation rate (mut_rate)
+0.025
+replicates (tot_runs)  
+1
