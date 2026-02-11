@@ -1,6 +1,6 @@
 # Thermal Adaptation Models - Analysis Results
 
-This repository contains analysis scripts and results for thermal adaptation models during range expansion. The scripts reproduces results for Naik et al. 2025 from simulation data.
+This repository contains analysis scripts and results for thermal adaptation models during range expansion. The scripts reproduces result figures for Naik et al. 2025 from simulation data.
 
 
 ## Repository Structure
